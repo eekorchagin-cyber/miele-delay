@@ -1,0 +1,10 @@
+{
+  "name": "Miele Delay",
+  "short_name": "Miele Delay",
+  "id": "miele-delay",
+  "start_url": "./?release=1.0.0",
+  "display": "standalone",
+  "background_color": "#edf3f8",
+  "theme_color": "#0b2c55",
+  "lang": "ru"
+}
