@@ -2,7 +2,7 @@
   "name": "Miele Delay",
   "short_name": "Miele Delay",
   "id": "miele-delay",
-  "start_url": "./?release=1.1.5",
+  "start_url": "./?release=1.1.7",
   "display": "standalone",
   "background_color": "#edf3f8",
   "theme_color": "#0b2c55",
